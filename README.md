@@ -14,5 +14,6 @@ Repo contains scripts for deploying, installing servers, databases for CI/CD Too
 
 <h1> Common Queries and Errors and How to Resolve Them</h1>
 <a href="https://stackoverflow.com/a/1559992/9463686">Host 'xxx.xx.xxx.xxx' is not allowed to connect to this MySQL server </a><br>
+<a href="https://www.tecmint.com/fix-error-2003-hy000-cant-connect-to-mysql-server-on-127-0-0-1-111/">Fix: ERROR 2003 (HY000): Can’t connect to MySQL server on ‘127.0.0.1’ (111)</a><br>
 <a href="https://www.tecmint.com/disable-root-login-access-to-phpmyadmin/">How to Disable root Login Access to PhpMyAdmin</a><br>
 <a href="https://www.tecmint.com/change-apache-port-in-linux/">How to Change Apache HTTP Port in Linux</a>
