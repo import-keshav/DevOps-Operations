@@ -7,4 +7,6 @@ Scripts for deploying, installing servers, databases  for CI/CD Tools
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04">Install and Secure phpMyAdmin on Ubuntu</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04">Set Up a Node.js Application for Production on Ubuntu</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04">How To Install Nginx on Ubuntu</a><br>
-<a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-14-04">How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu</a>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-14-04">How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu</a><br>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql">How To Allow Remote Access to MySQL</a> <br>
+<a href="https://stackoverflow.com/a/1559992/9463686">Host 'xxx.xx.xxx.xxx' is not allowed to connect to this MySQL server </a>
