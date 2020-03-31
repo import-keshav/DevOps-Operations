@@ -1,5 +1,7 @@
-# Scripts
-Scripts for deploying, installing servers, databases  for CI/CD Tools
+# DevOps Operation
+
+<h1>Scripts</h1>
+Repo contains scripts for deploying, installing servers, databases for CI/CD Tools and on remote servers.
 
 
 <h1> Tutorials </h1>
