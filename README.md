@@ -1,5 +1,8 @@
 # DevOps Operation
 <img src="https://miro.medium.com/max/3964/1*AwvDJDfErlD34ox2QpwGoA.png">
+
+<h1>RoadMap</h1>
+<img src="https://roadmap.sh/roadmaps/devops.png">
 <h1>Scripts</h1>
 Repo contains scripts for deploying, installing servers, databases for CI/CD Tools and on remote servers.
 
