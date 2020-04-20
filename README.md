@@ -15,7 +15,9 @@ Repo contains scripts for deploying, installing servers, databases for CI/CD Too
 <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-14-04">How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql">How To Allow Remote Access to MySQL</a> <br>
 <a href="https://semaphoreci.com/blog/python-continuous-integration-continuous-delivery">Python Continuous Integration and Deployment From Scratch</a> <br>
-<a href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mariadb-php-lamp-stack-on-centos-8-quickstart">How To Install Linux, Apache, MariaDB, PHP (LAMP) Stack on CentOS 8</a>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mariadb-php-lamp-stack-on-centos-8-quickstart">How To Install Linux, Apache, MariaDB, PHP (LAMP) Stack on CentOS 8</a><br>
+<a href="https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit">Automating Server Setup with Ansible</a><br>
+
 
 <h1> Common Queries and Errors and How to Resolve Them</h1>
 <a href="https://stackoverflow.com/a/1559992/9463686">Host 'xxx.xx.xxx.xxx' is not allowed to connect to this MySQL server </a><br>
