@@ -17,6 +17,7 @@ Repo contains scripts for deploying, installing servers, databases for CI/CD Too
 <a href="https://semaphoreci.com/blog/python-continuous-integration-continuous-delivery">Python Continuous Integration and Deployment From Scratch</a> <br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mariadb-php-lamp-stack-on-centos-8-quickstart">How To Install Linux, Apache, MariaDB, PHP (LAMP) Stack on CentOS 8</a><br>
 <a href="https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit">Automating Server Setup with Ansible</a><br>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8">How To Set Up a Firewall Using firewalld on CentOS 8</a>
 
 
 <h1> Common Queries and Errors and How to Resolve Them</h1>
