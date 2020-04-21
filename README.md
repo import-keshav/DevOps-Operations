@@ -19,6 +19,10 @@ Repo contains scripts for deploying, installing servers, databases for CI/CD Too
 <a href="https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit">Automating Server Setup with Ansible</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8">How To Set Up a Firewall Using firewalld on CentOS 8</a>
 
+<br>
+<h1> AWS </h1>
+<a href="https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/">Set up a Continuous Deployment Pipeline using AWS CodePipeline</a>
+<br>
 
 <h1> Common Queries and Errors and How to Resolve Them</h1>
 <a href="https://stackoverflow.com/a/1559992/9463686">Host 'xxx.xx.xxx.xxx' is not allowed to connect to this MySQL server </a><br>
