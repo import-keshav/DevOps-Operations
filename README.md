@@ -22,7 +22,7 @@ Repo contains scripts for deploying, installing servers, databases for CI/CD Too
 <h1> Django </h1>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04">How To Install Nginx on Ubuntu</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-16-04">How To Serve Django Applications with Apache and mod_wsgi on Ubuntu 16.04</a><br>
-<a href="https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04"></a>How To Secure Apache with Let's Encrypt on Ubuntu 16.04<br>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04">How To Secure Apache with Let's Encrypt on Ubuntu 16.04</a><br>
 </br>
 <br>
 <h1> AWS </h1>
