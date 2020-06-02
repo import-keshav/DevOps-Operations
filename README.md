@@ -11,7 +11,6 @@ Repo contains scripts for deploying, installing servers, databases for CI/CD Too
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04">Install MYSQL server in ubuntu</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04">Install and Secure phpMyAdmin on Ubuntu</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04">Set Up a Node.js Application for Production on Ubuntu</a><br>
-<a href="https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04">How To Install Nginx on Ubuntu</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-14-04">How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql">How To Allow Remote Access to MySQL</a> <br>
 <a href="https://semaphoreci.com/blog/python-continuous-integration-continuous-delivery">Python Continuous Integration and Deployment From Scratch</a> <br>
@@ -19,6 +18,12 @@ Repo contains scripts for deploying, installing servers, databases for CI/CD Too
 <a href="https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit">Automating Server Setup with Ansible</a><br>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8">How To Set Up a Firewall Using firewalld on CentOS 8</a>
 
+<br>
+<h1> Django </h1>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04">How To Install Nginx on Ubuntu</a><br>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-16-04">How To Serve Django Applications with Apache and mod_wsgi on Ubuntu 16.04</a><br>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04"></a>How To Secure Apache with Let's Encrypt on Ubuntu 16.04<br>
+</br>
 <br>
 <h1> AWS </h1>
 <a href="https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/">Set up a Continuous Deployment Pipeline using AWS CodePipeline</a>
